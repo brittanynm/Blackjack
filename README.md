@@ -3,6 +3,8 @@ Terminal based game, with automated dealer's play. This was my first coding proj
 
 ![](intro.png | width=100)
 
+src="intro.png" width="100" />
+
 ![](first_deal.png)
 
 ![](dealer.png)
