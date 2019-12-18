@@ -3,3 +3,4 @@ Terminal based game, with automated dealer's play. This was my first coding proj
 
 ![](https://gfycat.com/delayedclassicalligatorgar.gif)
 
+<iframe src='https://gfycat.com/delayedclassicalligatorgar.gif' frameborder='0' scrolling='no' allowfullscreen width='640' height='453'></iframe>
